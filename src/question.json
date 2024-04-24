@@ -1,0 +1,38 @@
+[
+
+{
+    "id": 1,
+    "question": "Types of Css?",
+    "option": ["1", "2", "3", "4"],
+    "correctOption": "3"
+},
+
+{
+    "id": 2,
+    "question": "Which of the following is not an HTML tag?",
+    "option": ["Doctype", "Table", "Style", "p"],
+    "correctOption": "Doctype"
+},
+
+{
+    "id": 3,
+    "question": "How many ways you can apply colors in CSS?",
+    "option": ["1", "2", "3", "7"],
+    "correctOption": "7"
+},
+
+{
+    "'id": 4,
+    "question": "How can you clear a floated element?",
+    "option": ["Clear:both", "Press the delete key", "Del tag", "Strike tag"],
+    "correctOption": "Clear:both"
+},
+
+{
+    "id":5,
+    "question": "What are the two methods of forms transfer?",
+    "option": ["Get and recieve", "Get and post", "Post and recieve", "Post and take"],
+    "correctOption": "Get and post"
+}
+
+]
