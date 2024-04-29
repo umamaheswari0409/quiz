@@ -87,17 +87,17 @@ button:hover{
 
 @media (max-width: 480px) {
     .quiz-app{
-        font-size: 9px;
+        font-size: 12px;
         flex-wrap: wrap;
         padding-left: 10px;
-        width: 250px;}
+        width: 370px;}
 
         .score-section button{
             font-size: 10px;}
 
 
         .question-section p{
-            font-size: 13px;
+            font-size: 17px;
         }
         .option button{
         font-size: 10px;
@@ -106,7 +106,7 @@ button:hover{
         
         }
         .timer{
-        font-size: 10px;
+        font-size: 15px;
         }
         
     }
