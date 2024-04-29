@@ -24,7 +24,7 @@
 {
     "'id": 4,
     "question": "How can you clear a floated element?",
-    "option": ["Clear:both", "delete  key", "Del tag", "Strike tag"],
+    "option": ["Clear:both", "delete", "Del tag", "Strike"],
     "correctOption": "Clear:both"
 },
 
