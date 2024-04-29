@@ -43,6 +43,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-wrap: wrap;
     gap: 10px;
     margin-top: 20px;
 }
@@ -100,14 +101,15 @@ button:hover{
         }
         .option button{
         font-size: 20px;
-        width: 200px;
-        padding: 6px 6px;
+        padding: 7px 7px;
         
         }
         .timer{
         font-size: 15px;
         }
-        
+        .score-section button{
+            font-size: 17px;
+        }
         
     }
 
