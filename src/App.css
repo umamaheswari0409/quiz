@@ -86,9 +86,11 @@ button:hover{
 }
 
 @media (max-width: 480px) {
-        .quiz-app{
-            font-size: 9px;
-            width: 90px;}
+    .quiz-app{
+        font-size: 9px;
+        flex-wrap: wrap;
+        padding-left: 10px;
+        width: 180px;}
 
         .score-section button{
             font-size: 10px;}
