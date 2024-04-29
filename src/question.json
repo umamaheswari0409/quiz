@@ -10,7 +10,7 @@
 {
     "id": 2,
     "question": "Which of the following is not an HTML tag?",
-    "option": ["Doctype", "Table", "Style", "p"],
+    "option": ["Doctype", "Table", "Style", "p tag"],
     "correctOption": "Doctype"
 },
 
