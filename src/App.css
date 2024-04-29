@@ -109,7 +109,9 @@ button:hover{
         font-size: 15px;
         }
         .button {
-        font-size: 11px;
+        font-size: 17px;
+        size: 100px;
+        padding: 10px 15px;
         }
         
     }
